@@ -37,14 +37,6 @@ The K-LHUR framework supports:
 ## Repository Information
 - **Dataset:** [http://research.microsoft.com/apps/pubs/?id=217455](http://research.microsoft.com/apps/pubs/?id=217455)  
 - **Source Code:** [https://github.com/Shahid-cse/K-LHUR](https://github.com/Shahid-cse/K-LHUR)
-
-## Citation
-If you use this framework in your research, please cite:
-
-> Md. Shahiduzzaman, Md. Fazle Rabbi, Muhammad Abdullah Adnan.  
-> *K-LHUR: A novel data-driven framework for identifying the k-length for high-utility routes in urban traffic networks.*  
-> (Manuscript submitted to *Transportation Research Part D: Transport and Environment*.)
-
 ---
 
 ### License
